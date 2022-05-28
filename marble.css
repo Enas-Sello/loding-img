@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.liner{
+    display: flex;
+    margin: 200px auto;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+} 
+
+.gray{position:absolute; transition: opacity 1.3s;}
+
+.active{opacity: 0;}
+
